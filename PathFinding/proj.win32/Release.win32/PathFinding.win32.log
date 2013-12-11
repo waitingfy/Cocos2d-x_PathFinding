@@ -1,0 +1,26 @@
+﻿Build started 2013-11-19 9:32:43.
+     1>Project "D:\Documents and Settings\huguangli\My Documents\Visual Studio 2010\projects\PathFinding\PathFinding\proj.win32\PathFinding.win32.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release.win32\PathFinding.win32.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Documents and Settings\huguangli\My Documents\Visual Studio 2010\projects\PathFinding\Release.win32\PathFinding.win32.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\Documents and Settings\huguangli\My Documents\Visual Studio 2010\projects\PathFinding\Release.win32\\" libcocos2d.lib opengl32.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release.win32\PathFinding.win32.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"D:\Documents and Settings\huguangli\My Documents\Visual Studio 2010\projects\PathFinding\Release.win32\PathFinding.win32.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Documents and Settings\huguangli\My Documents\Visual Studio 2010\projects\PathFinding\Release.win32\PathFinding.win32.lib" /MACHINE:X86 Release.win32\PathFinding.res
+         Release.win32\AppDelegate.obj
+         Release.win32\DragSprite.obj
+         Release.win32\HelloWorldScene.obj
+         Release.win32\LineContainer.obj
+         Release.win32\main.obj
+         PathFinding.win32.vcxproj -> D:\Documents and Settings\huguangli\My Documents\Visual Studio 2010\projects\PathFinding\Release.win32\PathFinding.win32.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Documents and Settings\huguangli\My Documents\Visual Studio 2010\projects\PathFinding\Release.win32\PathFinding.win32.exe;#1" /manifest Release.win32\PathFinding.win32.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release.win32\PathFinding.win32.unsuccessfulbuild".
+         Touching "Release.win32\PathFinding.win32.lastbuildstate".
+     1>Done Building Project "D:\Documents and Settings\huguangli\My Documents\Visual Studio 2010\projects\PathFinding\PathFinding\proj.win32\PathFinding.win32.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.51
